@@ -88,17 +88,6 @@
       🔗 <a href="https://testflight.apple.com/join/hfQEg5wB"><b>TestFlight Beta</b></a> • <a href="https://github.com/alokrathaur/FrameLab"><b>GitHub Repo</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="80" align="center">
-      <img src="assets/aura-logo.png" width="72" height="72" alt="Aura Assistant" />
-    </td>
-    <td>
-      <b>Aura Assistant — Ultra-Fast Native macOS AI Companion</b> &nbsp; <code>macOS 14+</code><br>
-      <i>Zero-Electron floating AI companion with glassmorphic HUD. Built with Carbon global hotkeys (<code>⌘⇧Space</code>), ScreenCaptureKit display & window capture, Apple Speech.framework real-time STT, and Keychain-secured credential storage.</i><br>
-      <b>Tech:</b> Swift, SwiftUI, ScreenCaptureKit, AVAudioEngine, Speech.framework, Security Keychain<br>
-      🔗 <a href="https://github.com/alokrathaur/AuraAssistant"><b>GitHub Repo</b></a>
-    </td>
-  </tr>
 </table>
 
 ### 💼 Commercial & Enterprise Production Ships
