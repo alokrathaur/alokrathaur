@@ -76,7 +76,7 @@
       <b>MacMint — Storage Cleaner & Optimizer for macOS</b> &nbsp; <code>macOS 14+ (Sonoma & Sequoia)</code><br>
       <i>Architected an itemized multi-category storage cleanup engine in Swift 6 & SwiftUI. Features 7-category deep clean (DerivedData, CocoaPods, Docker, Homebrew), VMware Fusion (.vmwarevm/.vmdk) virtual disk scanner, dual Sunburst & Treemap visualizers, and CleanerGuard zero-deletion safety sandbox.</i><br>
       <b>Tech:</b> Swift 6, SwiftUI, AppKit, Swift Concurrency, Cloudflare Workers, Dodo Payments<br>
-      🔗 <a href="https://getmacmint.store/"><b>getmacmint.store</b></a> • <a href="https://github.com/alokrathaur/MacMintMacApp"><b>GitHub Repo</b></a>
+      🔗 <a href="https://getmacmint.store/"><b>getmacmint.store</b></a>
     </td>
   </tr>
   <tr>
