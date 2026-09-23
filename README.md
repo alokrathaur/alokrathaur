@@ -10,10 +10,12 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alokrathaur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://legendprixai.lol"><img src="https://img.shields.io/badge/Portfolio_Portal-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/alok8feb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://legendprixai.lol"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:alok.rathaur26@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://apps.apple.com/developer/id1094746471"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
-  <a href="https://testflight.apple.com/join/hfQEg5wB"><img src="https://img.shields.io/badge/TestFlight-Beta-blue?style=for-the-badge&logo=apple&logoColor=white" alt="TestFlight" /></a>
+  <a href="https://apps.apple.com/my/app/dotmesh-dots-boxes-game/id6761758144"><img src="https://img.shields.io/badge/DotMesh-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="DotMesh App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.legendprixai.dotmesh"><img src="https://img.shields.io/badge/DotMesh-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="DotMesh Google Play" /></a>
+  <a href="https://getmacmint.store/"><img src="https://img.shields.io/badge/Get_MacMint-Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Get MacMint" /></a>
 </p>
 
 </div>
@@ -259,36 +261,16 @@
 
 ---
 
-## 💼 Career Journey
-
-```mermaid
-timeline
-    title Alok Kumar Rathaur — Professional Engineering Timeline
-    section Early Foundations
-        2014 - 2016 : The Next Interface Technology : Objective-C & Cocoa Touch Native iOS Development (My Vote)
-        2016 - 2017 : CBIL360 : Fullstack Web & Travel Booking Architecture (InfiniteJourneys)
-    section Native iOS Growth
-        2017 - 2019 : JAWK Softwares : Full-Lifecycle Native iOS Engineering, 60% XCTest Coverage (Neborhud)
-        2019 - 2022 : Continuous Upskilling : Swift Concurrency, SwiftUI Deep Dive & Personal Transition
-    section Senior & Architecture
-        2022        : PROVAB Technosoft : Telehealth iOS Platform, Real-Time WebSockets & e-Prescriptions (Tap2Health)
-        2022 - 2023 : SUGAR Cosmetics : High-Scale Consumer E-Commerce, 40% Memory Footprint Reduction
-        2023 - 2025 : Redpin (Currencies Direct) : Senior iOS Engineer, Payment SDKs, 35% Crash Reduction, 4.6★
-        2025 - Present : Independent Engineering Lab : MacMint (Swift 6), FrameLab (Metal/AVF), TopBump, DotMesh
-```
-
----
-
 ## 📊 GitHub Insights & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokrathaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Alok's GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alokrathaur&theme=tokyonight" alt="Alok's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokrathaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alokrathaur&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokrathaur&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alokrathaur&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </p>
 
 ---
@@ -310,8 +292,12 @@ I am actively open to **Senior iOS Engineer**, **Staff iOS Engineer**, and **Mob
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://x.com/alok8feb">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
   <a href="https://legendprixai.lol">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:alok.rathaur26@gmail.com">
