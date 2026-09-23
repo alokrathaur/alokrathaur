@@ -174,7 +174,7 @@
       <b>TopBump — Pay-to-Rank SaaS & B2B Leaderboard Platform</b><br>
       <i>High-concurrency ranking platform featuring a 65-category database hierarchy, live bidding leaderboards, swappable PaymentProvider abstraction layer, and Vitest test suites for transactional balancing.</i><br>
       <b>Tech:</b> Next.js 16, React 19, TypeScript, Prisma, PostgreSQL, Tailwind CSS<br>
-      🔗 <a href="https://topbump.lol"><b>topbump.lol</b></a> • <a href="https://github.com/alokrathaur/TopBump"><b>GitHub Repo</b></a>
+      🔗 <a href="https://topbump.lol"><b>topbump.lol</b></a>
     </td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@
       <b>TinyOrbit URL — Developer URL Shortener & Telemetry Portal</b><br>
       <i>High-performance URL shortener with real-time analytics dashboard, GeoIP geolocation mapping, JWT authentication, Google OAuth 2.0, and IP rate limiting.</i><br>
       <b>Tech:</b> React 19, Vite, TypeScript, Node.js, Express, PostgreSQL, Docker<br>
-      🔗 <a href="https://tiny-orbit-url.vercel.app/"><b>Live App</b></a> • <a href="https://github.com/alokrathaur/TinyOrbitUrl"><b>GitHub Repo</b></a>
+      🔗 <a href="https://tiny-orbit-url.vercel.app/"><b>Live App</b></a>
     </td>
   </tr>
 </table>
