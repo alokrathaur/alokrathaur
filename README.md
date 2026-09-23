@@ -194,69 +194,34 @@
 
 ## 🛠️ Technical Competencies & Apple Arsenal
 
-<p>
-
 #### 📱 Apple Platforms & Core Frameworks
-<img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/UIKit-1572B6?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/AppKit_(macOS)-333333?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Objective--C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Core_Data-5C2D91?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Combine-4A90E2?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/StoreKit_2-238636?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/AVFoundation-FF3B30?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Metal_&_Shaders-8E44AD?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/ScreenCaptureKit-0A84FF?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Accelerate_(vImage)-FF9500?style=flat-square&logo=apple&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-1572B6?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/AppKit_(macOS)-333333?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Objective--C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Core_Data-5C2D91?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-4A90E2?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/StoreKit_2-238636?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/AVFoundation-FF3B30?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Metal_&_Shaders-8E44AD?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Accelerate_(vImage)-FF9500?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
 #### ⚡ Concurrency & Architecture Patterns
-<img src="https://img.shields.io/badge/Swift_Concurrency_(async/await)-FA7343?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Actors_&_MainActor-E040FB?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Grand_Central_Dispatch_(GCD)-2C3E50?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/MVVM--C_(Coordinator)-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean_Architecture-3F51B5?style=flat-square" />
-<img src="https://img.shields.io/badge/VIPER-607D8B?style=flat-square" />
-<img src="https://img.shields.io/badge/The_Composable_Architecture_(TCA)-795548?style=flat-square" />
-<img src="https://img.shields.io/badge/Protocol--Oriented_Programming-673AB7?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Swift_Concurrency_(async/await)-FA7343?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Actors_&_MainActor-E040FB?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Grand_Central_Dispatch_(GCD)-2C3E50?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/MVVM--C_(Coordinator)-009688?style=flat-square" /> <img src="https://img.shields.io/badge/Clean_Architecture-3F51B5?style=flat-square" /> <img src="https://img.shields.io/badge/VIPER-607D8B?style=flat-square" /> <img src="https://img.shields.io/badge/The_Composable_Architecture_(TCA)-795548?style=flat-square" /> <img src="https://img.shields.io/badge/Protocol--Oriented_Programming-673AB7?style=flat-square" />
+</p>
 
 #### 💳 Payments, Security & Compliance
-<img src="https://img.shields.io/badge/Apple_Pay-000000?style=flat-square&logo=applepay&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe_SDK-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Checkout.com-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Worldpay-001429?style=flat-square" />
-<img src="https://img.shields.io/badge/3D_Secure_(3DS_2.0)-107C41?style=flat-square" />
-<img src="https://img.shields.io/badge/PSD2_SCA_Compliance-0D6EFD?style=flat-square" />
-<img src="https://img.shields.io/badge/Secure_Enclave_&_Keychain-28A745?style=flat-square&logo=apple" />
-<img src="https://img.shields.io/badge/PCI--DSS_Standards-D32F2F?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Apple_Pay-000000?style=flat-square&logo=applepay&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe_SDK-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Checkout.com-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Worldpay-001429?style=flat-square" /> <img src="https://img.shields.io/badge/3D_Secure_(3DS_2.0)-107C41?style=flat-square" /> <img src="https://img.shields.io/badge/PSD2_SCA_Compliance-0D6EFD?style=flat-square" /> <img src="https://img.shields.io/badge/Secure_Enclave_&_Keychain-28A745?style=flat-square&logo=apple" /> <img src="https://img.shields.io/badge/PCI--DSS_Standards-D32F2F?style=flat-square" />
+</p>
 
 #### 🔬 Performance Profiling & Tooling
-<img src="https://img.shields.io/badge/Xcode_Instruments-1572B6?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Time_Profiler-E65100?style=flat-square" />
-<img src="https://img.shields.io/badge/Allocations_&_Leaks-B71C1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Memory_Graph_Debugger-4A148C?style=flat-square" />
-<img src="https://img.shields.io/badge/LLDB_Debugging-37474F?style=flat-square" />
-<img src="https://img.shields.io/badge/XCTest_&_XCUITest-1E88E5?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/Xcode_Instruments-1572B6?style=flat-square&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Time_Profiler-E65100?style=flat-square" /> <img src="https://img.shields.io/badge/Allocations_&_Leaks-B71C1C?style=flat-square" /> <img src="https://img.shields.io/badge/Memory_Graph_Debugger-4A148C?style=flat-square" /> <img src="https://img.shields.io/badge/LLDB_Debugging-37474F?style=flat-square" /> <img src="https://img.shields.io/badge/XCTest_&_XCUITest-1E88E5?style=flat-square" />
+</p>
 
 #### 🚀 DevOps, Build Systems & CI/CD
-<img src="https://img.shields.io/badge/Xcode_Cloud-1572B6?style=flat-square&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Fastlane-00F2FF?style=flat-square&logo=fastlane&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift_Package_Manager_(SPM)-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
-<img src="https://img.shields.io/badge/App_Store_Connect-007AFF?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/TestFlight-007AFF?style=flat-square&logo=testflight&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Xcode_Cloud-1572B6?style=flat-square&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Fastlane-00F2FF?style=flat-square&logo=fastlane&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Swift_Package_Manager_(SPM)-F05138?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" /> <img src="https://img.shields.io/badge/App_Store_Connect-007AFF?style=flat-square&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/TestFlight-007AFF?style=flat-square&logo=testflight&logoColor=white" />
+</p>
 
 #### 🌐 Cross-Platform, Web & Fullstack
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 ---
