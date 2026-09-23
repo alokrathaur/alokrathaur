@@ -226,20 +226,6 @@
 
 ---
 
-## 📊 GitHub Insights & Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alokrathaur&theme=tokyonight" alt="Alok's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alokrathaur&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alokrathaur&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎓 Education & Certifications
 
 - **Post Graduate Diploma in Advanced Computing (PG-DAC)** — *CDAC, IACSD Pune (71%)*
